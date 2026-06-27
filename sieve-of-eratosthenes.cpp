@@ -4,7 +4,7 @@ using namespace std;
 #define fastio ios_base::sync_with_stdio(false); cin.tie(NULL);
 #define endl "\n
 
-// This code basically prints the sieve of eratosthenes in a certain manner
+// This code basically prints the sieve of eratosthenes in a certain manner.
 
 int main() {
     fastio;
